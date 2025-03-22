@@ -1,0 +1,31 @@
+.base {
+    flex-direction: row;
+    width: 1920px;
+    height: 1080px;
+}
+
+.boton-regresar {
+    width: 300px;
+    height: 150px;
+    align-items: stretch;
+    align-self: flex-end;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    background-image: url("project://database/Assets/Buttons/PNG/3button_green_middle.png?fileID=2800000&guid=a73ec2992ca135e48987416ecdcdc2c3&type=3#3button_green_middle");
+    background-color: rgba(0, 0, 0, 0);
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+}
+
+.boton-regresar:hover {
+    transition-duration: 0.3s;
+    transition-timing-function: ease-out-sine;
+    width: 400px;
+    height: 200px;
+}
+
+.boton-regresar:active {
+    -unity-background-image-tint-color: rgb(107, 107, 107);
+}
