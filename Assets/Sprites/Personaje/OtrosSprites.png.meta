@@ -1,0 +1,2769 @@
+fileFormatVersion: 2
+guid: 4b9ef0b9f36d5f142a652acdc2cc7e19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7561940160159768560
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_0
+  - first:
+      213: -224076705731734888
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_1
+  - first:
+      213: -756875404457570431
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_2
+  - first:
+      213: 3519076835721748323
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_3
+  - first:
+      213: 7694610582152377296
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_4
+  - first:
+      213: -4874731618282477209
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_5
+  - first:
+      213: -236467721508785342
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_6
+  - first:
+      213: -3890570190951653529
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_7
+  - first:
+      213: 7548151362723971761
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_8
+  - first:
+      213: 1887188150187615675
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_9
+  - first:
+      213: -9138856812858268179
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_10
+  - first:
+      213: 8294678732786026485
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_11
+  - first:
+      213: 5274730440040757136
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_12
+  - first:
+      213: 1435877207552880203
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_13
+  - first:
+      213: 688913845816029760
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_14
+  - first:
+      213: -2306835132821988229
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_15
+  - first:
+      213: -5655703836795925967
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_16
+  - first:
+      213: 3903899231179447310
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_17
+  - first:
+      213: 2687420280879083187
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_18
+  - first:
+      213: 9131271964554836258
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_19
+  - first:
+      213: -4290494386636179974
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_20
+  - first:
+      213: 2047697042210847488
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_21
+  - first:
+      213: 2943507061456036697
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_22
+  - first:
+      213: 5093834663477633902
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_23
+  - first:
+      213: -7160284845507073187
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_24
+  - first:
+      213: -2027854834908826602
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_25
+  - first:
+      213: -9143365751395794277
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_26
+  - first:
+      213: -5640497752303062393
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_27
+  - first:
+      213: 7727858681487303012
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_28
+  - first:
+      213: 6402804346247208349
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_29
+  - first:
+      213: -1429307306119704680
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_30
+  - first:
+      213: -2181770374621940439
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_31
+  - first:
+      213: -2022850589814780490
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_32
+  - first:
+      213: 6247560278697609112
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_33
+  - first:
+      213: 5324732615107752362
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_34
+  - first:
+      213: 4213101027196592114
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_35
+  - first:
+      213: -4332852927659774542
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_36
+  - first:
+      213: 5353804027987905003
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_37
+  - first:
+      213: 699694535294532381
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_38
+  - first:
+      213: -3709366321553788109
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_39
+  - first:
+      213: 1389470460851127479
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_40
+  - first:
+      213: -4693725640098079632
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_41
+  - first:
+      213: 4276196708206432397
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_42
+  - first:
+      213: 3980179766077609068
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_43
+  - first:
+      213: 5492479658927877382
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_44
+  - first:
+      213: 1163885809651262914
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_45
+  - first:
+      213: -4049821029477278726
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_46
+  - first:
+      213: -4997731443887853625
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_47
+  - first:
+      213: 6958153327161812929
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_48
+  - first:
+      213: -115178443983555530
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_49
+  - first:
+      213: 2106483568136596671
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_50
+  - first:
+      213: -1185926501503571454
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_51
+  - first:
+      213: -5714035313957676208
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_52
+  - first:
+      213: 6289979606672200802
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_53
+  - first:
+      213: -5171434788948125974
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_54
+  - first:
+      213: -3524609721812110189
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_55
+  - first:
+      213: 4641798617881081017
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_56
+  - first:
+      213: -2665239489081833785
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_57
+  - first:
+      213: -4089540400858791327
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_58
+  - first:
+      213: -241739530025503432
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_59
+  - first:
+      213: -4997876103638659372
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_60
+  - first:
+      213: -6361997741330889943
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_61
+  - first:
+      213: -6208150002432165626
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_62
+  - first:
+      213: 8652091408632301586
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_63
+  - first:
+      213: -477202223045827213
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_64
+  - first:
+      213: 4236270660709766490
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_65
+  - first:
+      213: -3810604415836918741
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_66
+  - first:
+      213: -5099809940845140041
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_67
+  - first:
+      213: 370989708508894096
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_68
+  - first:
+      213: -6471454111683192152
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_69
+  - first:
+      213: 1507717586412739518
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_70
+  - first:
+      213: -8942469820942398539
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_71
+  - first:
+      213: 1488586121075438456
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_72
+  - first:
+      213: -1329784183930428299
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_73
+  - first:
+      213: -8672542823266671695
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_74
+  - first:
+      213: -367723961693826465
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_75
+  - first:
+      213: 169483008874124454
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_76
+  - first:
+      213: -3593908059317573397
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_77
+  - first:
+      213: -8932156049709414973
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_78
+  - first:
+      213: -4270375648074858648
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_79
+  - first:
+      213: 5297555204667360814
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_80
+  - first:
+      213: 6296530875970327597
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_81
+  - first:
+      213: -8995246411223592542
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_82
+  - first:
+      213: 3948040253016108622
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_83
+  - first:
+      213: 1384844075892783652
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_84
+  - first:
+      213: -8010107354437769035
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_85
+  - first:
+      213: 2843800562102643264
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_86
+  - first:
+      213: -1083711377536899545
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_87
+  - first:
+      213: -7441070519400021737
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_88
+  - first:
+      213: -7158418466261725358
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_89
+  - first:
+      213: 1705393031975785720
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_90
+  - first:
+      213: 7887415486444419938
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_91
+  - first:
+      213: 8255478345664750773
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_92
+  - first:
+      213: -6540667979961397657
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_93
+  - first:
+      213: -7626993078820170519
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_94
+  - first:
+      213: 1802925521761033264
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_95
+  - first:
+      213: 5841811863575032715
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_96
+  - first:
+      213: 3919878468084600177
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_97
+  - first:
+      213: 1359245691475708196
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_98
+  - first:
+      213: 5171656313598853476
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_99
+  - first:
+      213: -9057479470997831810
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_100
+  - first:
+      213: -8092258513079440628
+    second: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1130
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff5513c28861f860800000000000000
+      internalID: 7561940160159768560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1130
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8929b606c6be3ecf0800000000000000
+      internalID: -224076705731734888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1130
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f831a64d90f75f0800000000000000
+      internalID: -756875404457570431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1130
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f108abcb546d030800000000000000
+      internalID: 3519076835721748323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1130
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d377228e8fb8ca60800000000000000
+      internalID: 7694610582152377296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1130
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76968ecab69795cb0800000000000000
+      internalID: -4874731618282477209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1130
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2437f923cd5e7bcf0800000000000000
+      internalID: -236467721508785342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1159
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f5a92460be10ac0800000000000000
+      internalID: -3890570190951653529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1159
+        width: 49
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b20b0e2cab60c860800000000000000
+      internalID: 7548151362723971761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1159
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb56244bf93a03a10800000000000000
+      internalID: 1887188150187615675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1159
+        width: 49
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5ac6006224c2180800000000000000
+      internalID: -9138856812858268179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1159
+        width: 60
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7c2b14c5e9c1370800000000000000
+      internalID: 8294678732786026485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1058
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097b194736b933940800000000000000
+      internalID: 5274730440040757136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1058
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ee44176b24de310800000000000000
+      internalID: 1435877207552880203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1058
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04276b42e738f8900800000000000000
+      internalID: 688913845816029760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1058
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c11c83ba97cffd0800000000000000
+      internalID: -2306835132821988229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1061
+        width: 68
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a07fc5357e281b0800000000000000
+      internalID: -5655703836795925967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1061
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c1f51caaf6d2630800000000000000
+      internalID: 3903899231179447310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1061
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be6af3c182ab4520800000000000000
+      internalID: 2687420280879083187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1061
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22936c2e87bc8be70800000000000000
+      internalID: 9131271964554836258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1061
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af53ebd561a1574c0800000000000000
+      internalID: -4290494386636179974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 951
+        width: 55
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b78985c91ea6c10800000000000000
+      internalID: 2047697042210847488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 951
+        width: 54
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953e0f7b31079d820800000000000000
+      internalID: 2943507061456036697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 951
+        width: 62
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63e72d53afe0b640800000000000000
+      internalID: 5093834663477633902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 951
+        width: 51
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b20fcaede81ac90800000000000000
+      internalID: -7160284845507073187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 951
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614733d85cc9bd3e0800000000000000
+      internalID: -2027854834908826602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 952
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92c490fa4d3c1180800000000000000
+      internalID: -9143365751395794277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 951
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782369dcd2de8b1b0800000000000000
+      internalID: -5640497752303062393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 951
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4612870e68ede3b60800000000000000
+      internalID: 7727858681487303012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 951
+        width: 59
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d546021a45bd850800000000000000
+      internalID: 6402804346247208349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 952
+        width: 73
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f4ddfe3941a2ce0800000000000000
+      internalID: -1429307306119704680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 951
+        width: 59
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925303f576bc8b1e0800000000000000
+      internalID: -2181770374621940439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 952
+        width: 77
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd86682b146de3e0800000000000000
+      internalID: -2022850589814780490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 823
+        width: 55
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8978c94f8fac3b650800000000000000
+      internalID: 6247560278697609112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 823
+        width: 49
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa13f6f0a1045e940800000000000000
+      internalID: 5324732615107752362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 823
+        width: 55
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffd2e0ff01f77a30800000000000000
+      internalID: 4213101027196592114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 823
+        width: 56
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bde3def73d9ed3c0800000000000000
+      internalID: -4332852927659774542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 823
+        width: 55
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be94645d5688c4a40800000000000000
+      internalID: 5353804027987905003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 804
+        width: 56
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b33830970d5b900800000000000000
+      internalID: 699694535294532381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 804
+        width: 51
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3333dfdcbfea58cc0800000000000000
+      internalID: -3709366321553788109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 804
+        width: 73
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b40eecb504684310800000000000000
+      internalID: 1389470460851127479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 804
+        width: 64
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c9fc416698cdeb0800000000000000
+      internalID: -4693725640098079632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 804
+        width: 67
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80d656ff3a185b30800000000000000
+      internalID: 4276196708206432397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 804
+        width: 68
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64d04bc8607c3730800000000000000
+      internalID: 3980179766077609068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 804
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d647e3625393c40800000000000000
+      internalID: 5492479658927877382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 804
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5a1633af3f62010800000000000000
+      internalID: 1163885809651262914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 804
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb99160b352cc7c0800000000000000
+      internalID: -4049821029477278726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 698
+        width: 52
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfa34c1bbd74aab0800000000000000
+      internalID: -4997731443887853625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 698
+        width: 46
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7ae2ec593509060800000000000000
+      internalID: 6958153327161812929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 698
+        width: 59
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634f390c0ddc66ef0800000000000000
+      internalID: -115178443983555530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 698
+        width: 56
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcaaf305abbb3d10800000000000000
+      internalID: 2106483568136596671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 698
+        width: 59
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a6824512eba8fe0800000000000000
+      internalID: -1185926501503571454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 654
+        width: 56
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bd38df72ba3b0b0800000000000000
+      internalID: -5714035313957676208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 654
+        width: 52
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264d524602f7a4750800000000000000
+      internalID: 6289979606672200802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 654
+        width: 73
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae656a9757f5b38b0800000000000000
+      internalID: -5171434788948125974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 654
+        width: 64
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3943087d122161fc0800000000000000
+      internalID: -3524609721812110189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 654
+        width: 68
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b473b9ef3bfa6040800000000000000
+      internalID: 4641798617881081017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 654
+        width: 68
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c60fe34eca230bd0800000000000000
+      internalID: -2665239489081833785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 654
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16204383ca80f37c0800000000000000
+      internalID: -4089540400858791327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 654
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835f8a0ad2b25acf0800000000000000
+      internalID: -241739530025503432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 566
+        width: 49
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de4433e92af3aab0800000000000000
+      internalID: -4997876103638659372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 569
+        width: 59
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9238226f2c4a5b7a0800000000000000
+      internalID: -6361997741330889943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 569
+        width: 53
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609b0b8077838d9a0800000000000000
+      internalID: -6208150002432165626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 500
+        width: 54
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218ccbf9b47621870800000000000000
+      internalID: 8652091408632301586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 500
+        width: 58
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375a3514b13a069f0800000000000000
+      internalID: -477202223045827213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 500
+        width: 60
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55d300a8b14aca30800000000000000
+      internalID: 4236270660709766490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 500
+        width: 80
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c618629730e1bc0800000000000000
+      internalID: -3810604415836918741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 500
+        width: 73
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b76be5f0e5d939b0800000000000000
+      internalID: -5099809940845140041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 500
+        width: 73
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0939ffe9c25062500800000000000000
+      internalID: 370989708508894096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 500
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aad1ecc5c6c036a0800000000000000
+      internalID: -6471454111683192152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_70
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 501
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb9db7182d7ce410800000000000000
+      internalID: 1507717586412739518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_71
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 444
+        width: 75
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbc31cb317f5e380800000000000000
+      internalID: -8942469820942398539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_72
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 444
+        width: 58
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8733744b03588a410800000000000000
+      internalID: 1488586121075438456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_73
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 444
+        width: 65
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574e4e88458ab8de0800000000000000
+      internalID: -1329784183930428299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_74
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 444
+        width: 61
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3a3d75040f4a780800000000000000
+      internalID: -8672542823266671695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_75
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 444
+        width: 67
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5217df410595eaf0800000000000000
+      internalID: -367723961693826465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_76
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 362
+        width: 60
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4186b06ef1a5200800000000000000
+      internalID: 169483008874124454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_77
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 363
+        width: 59
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be866f059afdf1ec0800000000000000
+      internalID: -3593908059317573397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_78
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 363
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5c6bab56b9a0480800000000000000
+      internalID: -8932156049709414973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_79
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 362
+        width: 57
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ff40739f39cb4c0800000000000000
+      internalID: -4270375648074858648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_80
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 363
+        width: 77
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2648381462b48940800000000000000
+      internalID: 5297555204667360814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_81
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 287
+        width: 66
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d249d73a875c16750800000000000000
+      internalID: 6296530875970327597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_82
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 287
+        width: 52
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a119ef3c077a2380800000000000000
+      internalID: -8995246411223592542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_83
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 287
+        width: 103
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ee7f741b14ac630800000000000000
+      internalID: 3948040253016108622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_84
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 287
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ab4ec8954f73310800000000000000
+      internalID: 1384844075892783652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_85
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 294
+        width: 112
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b82efdecc166d090800000000000000
+      internalID: -8010107354437769035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_86
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 272
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a2f2c4b85377720800000000000000
+      internalID: 2843800562102643264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_87
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 272
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7262dde6e32e5f0f0800000000000000
+      internalID: -1083711377536899545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_88
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 272
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711c78e79c10cb890800000000000000
+      internalID: -7441070519400021737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_89
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 272
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f8fd4f45038ac90800000000000000
+      internalID: -7158418466261725358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_90
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 159
+        width: 68
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4d7515de5caa710800000000000000
+      internalID: 1705393031975785720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_91
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 159
+        width: 71
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b3f69789ab57d60800000000000000
+      internalID: 7887415486444419938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_92
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 159
+        width: 76
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4e644e0d9519270800000000000000
+      internalID: 8255478345664750773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_93
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 159
+        width: 73
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e01ac4021ea35a0800000000000000
+      internalID: -6540667979961397657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_94
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 159
+        width: 86
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e49f80543a772690800000000000000
+      internalID: -7626993078820170519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_95
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 159
+        width: 89
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c5d01b537450910800000000000000
+      internalID: 1802925521761033264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_96
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 34
+        width: 68
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b837d0d40f8421150800000000000000
+      internalID: 5841811863575032715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_97
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 33
+        width: 70
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d82e4c2b4366630800000000000000
+      internalID: 3919878468084600177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_98
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 34
+        width: 76
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429c3ea31c20dd210800000000000000
+      internalID: 1359245691475708196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_99
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 34
+        width: 73
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4614770440a65c740800000000000000
+      internalID: 5171656313598853476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_100
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 27
+        width: 86
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ff7c2e86e5d4280800000000000000
+      internalID: -9057479470997831810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_101
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 30
+        width: 91
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0be449c1c582bf80800000000000000
+      internalID: -8092258513079440628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_0: 7561940160159768560
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_1: -224076705731734888
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_10: -9138856812858268179
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_100: -9057479470997831810
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_101: -8092258513079440628
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_11: 8294678732786026485
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_12: 5274730440040757136
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_13: 1435877207552880203
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_14: 688913845816029760
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_15: -2306835132821988229
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_16: -5655703836795925967
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_17: 3903899231179447310
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_18: 2687420280879083187
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_19: 9131271964554836258
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_2: -756875404457570431
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_20: -4290494386636179974
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_21: 2047697042210847488
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_22: 2943507061456036697
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_23: 5093834663477633902
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_24: -7160284845507073187
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_25: -2027854834908826602
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_26: -9143365751395794277
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_27: -5640497752303062393
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_28: 7727858681487303012
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_29: 6402804346247208349
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_3: 3519076835721748323
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_30: -1429307306119704680
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_31: -2181770374621940439
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_32: -2022850589814780490
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_33: 6247560278697609112
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_34: 5324732615107752362
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_35: 4213101027196592114
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_36: -4332852927659774542
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_37: 5353804027987905003
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_38: 699694535294532381
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_39: -3709366321553788109
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_4: 7694610582152377296
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_40: 1389470460851127479
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_41: -4693725640098079632
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_42: 4276196708206432397
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_43: 3980179766077609068
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_44: 5492479658927877382
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_45: 1163885809651262914
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_46: -4049821029477278726
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_47: -4997731443887853625
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_48: 6958153327161812929
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_49: -115178443983555530
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_5: -4874731618282477209
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_50: 2106483568136596671
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_51: -1185926501503571454
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_52: -5714035313957676208
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_53: 6289979606672200802
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_54: -5171434788948125974
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_55: -3524609721812110189
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_56: 4641798617881081017
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_57: -2665239489081833785
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_58: -4089540400858791327
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_59: -241739530025503432
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_6: -236467721508785342
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_60: -4997876103638659372
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_61: -6361997741330889943
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_62: -6208150002432165626
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_63: 8652091408632301586
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_64: -477202223045827213
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_65: 4236270660709766490
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_66: -3810604415836918741
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_67: -5099809940845140041
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_68: 370989708508894096
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_69: -6471454111683192152
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_7: -3890570190951653529
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_70: 1507717586412739518
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_71: -8942469820942398539
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_72: 1488586121075438456
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_73: -1329784183930428299
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_74: -8672542823266671695
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_75: -367723961693826465
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_76: 169483008874124454
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_77: -3593908059317573397
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_78: -8932156049709414973
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_79: -4270375648074858648
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_8: 7548151362723971761
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_80: 5297555204667360814
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_81: 6296530875970327597
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_82: -8995246411223592542
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_83: 3948040253016108622
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_84: 1384844075892783652
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_85: -8010107354437769035
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_86: 2843800562102643264
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_87: -1083711377536899545
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_88: -7441070519400021737
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_89: -7158418466261725358
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_9: 1887188150187615675
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_90: 1705393031975785720
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_91: 7887415486444419938
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_92: 8255478345664750773
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_93: -6540667979961397657
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_94: -7626993078820170519
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_95: 1802925521761033264
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_96: 5841811863575032715
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_97: 3919878468084600177
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_98: 1359245691475708196
+      super_mario_expanded_sprite_sheet__dev___by_supermariospongebob_ddarl44-Photoroom_99: 5171656313598853476
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
