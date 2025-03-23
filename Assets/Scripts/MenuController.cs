@@ -31,7 +31,7 @@ public class MenuController : MonoBehaviour
 
     private void CerrarJuego(ClickEvent evt)
     {   
-        Debug.Log("Funciono");
+        Debug.Log("Juego Cerrado");
         Application.Quit();
     }
 

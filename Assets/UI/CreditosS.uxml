@@ -1,0 +1,9 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/titulo.uss?fileID=7433441132597879392&amp;guid=464eb008df385b04ca12c2daec9d6385&amp;type=3#titulo" />
+    <engine:VisualElement name="Titulo" class="titulo" style="flex-grow: 1; margin-top: 0; flex-direction: column;">
+        <engine:Label text="Creditos" name="CreditosText" class="creditosText" style="flex-direction: row-reverse;" />
+    </engine:VisualElement>
+    <engine:VisualElement name="Creditos" class="creditos" style="flex-grow: 1;">
+        <engine:Label text="Autor: Brian Axel Velarde Rodríguez&#10;Matricula: A01753036&#10;&#10;&#10;&#10;La propiedad intelectual del videojuego Mario Bros es de Nintendo Company&#10;Este juego fue hecho sin fines educativos&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;Todos los Derechos Reservados  " name="Texto" class="texto" />
+    </engine:VisualElement>
+</engine:UXML>

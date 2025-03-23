@@ -1,0 +1,39 @@
+.titulo {
+    width: auto;
+    height: auto;
+    -unity-background-image-tint-color: rgb(144, 144, 144);
+    background-color: rgb(119, 119, 119);
+    color: rgb(255, 255, 255);
+    flex-direction: row-reverse;
+}
+
+.creditos {
+    height: 60%;
+    background-image: none;
+    background-color: rgb(104, 103, 103);
+    -unity-text-align: upper-center;
+    color: rgb(13, 13, 13);
+    top: auto;
+}
+
+.texto {
+    -unity-text-align: upper-center;
+    font-size: 30px;
+    transition-property: all;
+    transition-duration: 0s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    margin-bottom: 0;
+    justify-content: flex-start;
+    top: auto;
+    bottom: 0;
+    color: rgb(194, 186, 112);
+    -unity-font-style: bold;
+    white-space: normal;
+}
+
+.creditosText {
+    font-size: 50px;
+    color: rgb(233, 222, 109);
+    -unity-text-align: middle-center;
+}

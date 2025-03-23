@@ -11,12 +11,14 @@
     align-self: flex-end;
     margin-left: 50px;
     margin-bottom: 50px;
-    background-image: url("project://database/Assets/Buttons/PNG/3button_green_middle.png?fileID=2800000&guid=a73ec2992ca135e48987416ecdcdc2c3&type=3#3button_green_middle");
+    background-image: url("project://database/Assets/Images/Buttons/PNG/3button_green_middle.png?fileID=2800000&guid=a73ec2992ca135e48987416ecdcdc2c3&type=3#3button_green_middle");
     background-color: rgba(0, 0, 0, 0);
     border-left-color: rgba(0, 0, 0, 0);
     border-right-color: rgba(0, 0, 0, 0);
     border-top-color: rgba(0, 0, 0, 0);
     border-bottom-color: rgba(0, 0, 0, 0);
+    top: -600px;
+    flex-direction: column;
 }
 
 .boton-regresar:hover {

@@ -9,28 +9,23 @@
     -unity-text-align: upper-center;
     -unity-font-style: bold;
     margin-top: 50px;
-}
-
-.botones {
-    justify-content: space-around;
-    flex-direction: column;
-    align-items: center;
-    -unity-text-align: upper-left;
+    margin-bottom: 125px;
 }
 
 .boton {
-    width: 300px;
+    width: 500px;
     height: 150px;
-    background-image: url("project://database/Assets/Buttons/PNG/4button_green_middle.png?fileID=2800000&guid=fafb57e9cc0c62245a6bd4d42a895309&type=3#4button_green_middle");
+    background-image: url("project://database/Assets/Images/Buttons/PNG/4button_green_middle.png?fileID=2800000&guid=fafb57e9cc0c62245a6bd4d42a895309&type=3#4button_green_middle");
     background-color: rgba(255, 255, 255, 0);
     border-left-color: rgba(255, 255, 255, 0);
     border-right-color: rgba(255, 255, 255, 0);
     border-top-color: rgba(255, 255, 255, 0);
     border-bottom-color: rgba(255, 255, 255, 0);
-    font-size: 64px;
+    font-size: 100px;
     transition-duration: 0.3s;
     transition-timing-function: ease-in-out-sine;
     color: rgb(255, 255, 255);
+    -unity-text-align: upper-center;
 }
 
 .boton:hover {
@@ -55,6 +50,9 @@
     margin-right: 0;
     margin-bottom: 0;
     margin-left: 0;
+    height: 50px;
+    align-items: stretch;
+    top: -120px;
 }
 
 .exit {
@@ -62,14 +60,7 @@
     padding-right: 0;
     padding-bottom: 0;
     padding-left: 0;
-}
-
-.matricula {
-    flex-direction: row;
-    -unity-text-align: upper-right;
-    font-size: 60px;
-    -unity-font-style: bold-and-italic;
-    align-self: flex-end;
+    top: -300px;
 }
 
 .exit {
@@ -78,9 +69,38 @@
     padding-bottom: 0;
     padding-left: 0;
     left: -600px;
-    bottom: -125px;
+    bottom: auto;
     -unity-font-style: bold;
     font-size: 100px;
     width: 100px;
     height: 100px;
+    top: 200px;
+}
+
+.textoAyuda {
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    -unity-text-align: upper-center;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+
+.botones {
+    -unity-text-align: upper-left;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-self: center;
+    align-items: flex-end;
+}
+
+.matricula {
+    flex-direction: column-reverse;
+    -unity-text-align: upper-right;
+    font-size: 60px;
+    -unity-font-style: bold-and-italic;
+    align-self: flex-end;
+    bottom: -50px;
+    top: 120px;
+    color: rgb(255, 255, 255);
 }
