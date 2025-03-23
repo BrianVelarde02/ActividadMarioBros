@@ -8,6 +8,8 @@ public class MenuController : MonoBehaviour
     private UIDocument menu;
     private Button botonA;
     private Button botonB;
+    private Button botonC;
+    private Button exit;
 
     void OnEnable()
     {
@@ -16,11 +18,21 @@ public class MenuController : MonoBehaviour
 
         botonA = root.Q<Button>("BotonA");
         botonB = root.Q<Button>("BotonB");
+        botonC = root.Q<Button>("BotonC");
+        exit = root.Q<Button>("Exit");
         
-        botonA.RegisterCallback<ClickEvent, String>(Jugar, "SampleScene");
-        botonB.RegisterCallback<ClickEvent, String>(Jugar, "EscenaMapa");
+        botonA.RegisterCallback<ClickEvent, String>(Jugar, "EscenaMapa");
+        botonB.RegisterCallback<ClickEvent, String>(Jugar, "EscenaAyuda");
+        botonC.RegisterCallback<ClickEvent, String>(Jugar, "EscenaCreditos");
+        exit.RegisterCallback<ClickEvent>(CerrarJuego);
 
 
+    }
+
+    private void CerrarJuego(ClickEvent evt)
+    {   
+        Debug.Log("Funciono");
+        Application.Quit();
     }
 
     private void Jugar(ClickEvent evt, String nombreEscena)
